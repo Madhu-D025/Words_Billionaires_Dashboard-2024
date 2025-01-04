@@ -43,6 +43,7 @@ Comparative Analysis:
 ## Dashboard-Interaction
 - <a href = "https://github.com/Madhu-D025/Words_Billionaires_Dashboard-2024/blob/main/Billionaires%20Final%20dashboard%20xlsx%20(Recovered).xlsx">Dashboard-Interaction</a>
 ## Project Insight
+
 1. Wealthiest Individuals
 <br>
 •	Elon Musk is the wealthiest billionaire in 2024, with a staggering net worth of $243 billion, followed by Bernard Arnault at $233 billion and Jeff Bezos at $194 billion.
