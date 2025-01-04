@@ -86,7 +86,6 @@ Comparative Analysis:
 <br>
 <br>
 ## Dashboard-Images
-![Billionarioes_deasbored](https://github.com/user-attachments/assets/89db50a4-45ab-42de-bbf1-d3746e057824)
 
 ![Billionarioes_deasbored](https://github.com/user-attachments/assets/bfb18acc-876e-4db5-9d7b-5014912414e7)
 <br>
