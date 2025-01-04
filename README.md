@@ -2,7 +2,7 @@
 ## Objective of the Project
 The objective of this project is to analyze and visualize the wealth distribution, demographic insights, and global representation of the world's billionaires in 2024. By leveraging Excel for data analysis and visualization, this project aims to provide actionable insights into the trends shaping global wealth, industries, and demographics.
 ## Dataset used
-- <a href="https://github.com/Santhoshkumarse/Vrinda-Store-Annual-report-2022/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/Madhu-D025/Words_Billionaires_Dashboard-2024/blob/main/Billionair_dataset.pdf.xlsx">Dataset</a>
 ## Questions for KPI
 General Analysis:
 <br>
@@ -41,7 +41,7 @@ Comparative Analysis:
 •	Which age group has the highest average net worth?
 <br>
 ## Dashboard-Interaction
-- <a href = "https://github.com/Madhu-D025/Christmas-Sales-and-Trends/blob/main/Christmas_Sales_Dashboard_Interaction.pbit">Dashboard-Interaction</a>
+- <a href = "https://github.com/Madhu-D025/Words_Billionaires_Dashboard-2024/blob/main/Billionaires%20Final%20dashboard%20xlsx%20(Recovered).xlsx">Dashboard-Interaction</a>
 ## Project Insight
 1. Wealthiest Individuals
 <br>
@@ -84,8 +84,8 @@ Comparative Analysis:
 <br>
 •	Europe is well-represented in countries like Germany, France, and the UK, primarily in industries like Luxury Goods and Finance.
 <br>
+<br>
 ## Dashboard-Images
-![Dashboard-1](https://github.com/user-attachments/assets/8074bc49-c04b-4064-8057-095b44e9686b)
-![Dashboard-2](https://github.com/user-attachments/assets/2bd9cde9-5412-4282-87fa-f8ca6ad26aad)
+![Billionarioes_deasbored](https://github.com/user-attachments/assets/bfb18acc-876e-4db5-9d7b-5014912414e7)
 ## Final Conclusion:
 The 2024 World's Billionaires Data Analysis and Dashboard provide a comprehensive view of global wealth distribution, highlighting significant trends and disparities among the world's elite. Elon Musk emerges as the wealthiest individual with a net worth of $243 billion, while the United States leads as the country with the most billionaires, totaling 190, showcasing its dominance in wealth creation. The Automotive industry tops the charts in billionaire representation, followed closely by Finance and Technology, reflecting their critical roles in shaping the global economy. A notable insight is the prominence of self-made billionaires, constituting 66.29% of the total, underscoring the increasing influence of innovation and entrepreneurship. However, gender disparity remains pronounced, with male billionaires significantly outnumbering females, indicating ongoing challenges in achieving gender equity in wealth creation. Wealth is concentrated among individuals in the 60-70 age group, though younger billionaires are making strides, particularly in technology-driven sectors. Emerging economies like China and India demonstrate growth in their billionaire counts, signaling shifts in global economic power. The findings reveal a stark concentration of wealth among a small elite, emphasizing economic inequalities while highlighting opportunities in new industries such as renewable energy and fintech. This analysis serves as a valuable resource for understanding wealth dynamics, providing actionable insights for policymakers, researchers, and business leaders aiming to navigate and influence the evolving economic landscape.
